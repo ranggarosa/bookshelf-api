@@ -1,0 +1,4 @@
+.vscode
+node_modules
+bookshelf-api-test.postman_collection.json
+bookshelf-api-test.postman_environment.json
